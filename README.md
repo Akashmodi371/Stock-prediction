@@ -53,6 +53,10 @@ git clone https://github.com/Akashmodi371/Stock-prediction.git
 ```sh
 Pip install -r requirements.txt
 ```
+3. Run Project
+``` sh
+Python app.py
+```
 
 
 ## Usage

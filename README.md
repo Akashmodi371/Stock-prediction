@@ -1,4 +1,4 @@
-# Stock-Prices-Forecasting using Python Dash & ML Model
+# Stock-Prices-Forecasting & Prediction using Python Dash Plotly & ML Model(SVR)
 <p align="center">
   <h3 align="center">Stock Prices Forecasting</h3>
 </p>

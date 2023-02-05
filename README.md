@@ -15,6 +15,7 @@
 
 ## About The Project
 
+![Demo](https://github.com/Akashmodi371/Stock-prediction/blob/master/images/Stock-prediction.gif)
 
 ## Dashbord
 ![Output-Data](https://github.com/Akashmodi371/Stock-prediction/blob/master/images/stock1.jpg)
